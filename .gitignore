@@ -3,6 +3,7 @@ node_modules
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+thumb.db
 
 # Folder config file
 Desktop.ini
